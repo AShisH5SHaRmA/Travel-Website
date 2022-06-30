@@ -127,6 +127,7 @@ body{
 }
 .vid-1{
     border:none;
+    height: 350px;
 }
 .package{
     display: flex;
